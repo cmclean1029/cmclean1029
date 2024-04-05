@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a new software developer in the process of completing a bootcamp program, Tech Elevator. 
+I am currently learning software development tools including Visual Studio Code and Git. 
+Pronouns: she/her
+Fun fact: I currently work at a Level 1 trauma hospital.
